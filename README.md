@@ -1,3 +1,7 @@
+<p align="center">
+<img src ="./Assets/palette.png"/>
+</p>
+
 # XcodeTheme-Rapha.cc
 Xcode theme inspired by Rapha.cc 🚴‍♀️colors
 
@@ -13,7 +17,10 @@ $ git clone https://github.com/robertherdzik/XcodeTheme-Rapha.cc.git
 $ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 ```
 
-* Copy theme to ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ forlder
+* Copy theme to ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ forlder OR create symbolic link:
+```console
+$ ln -s Rapha.cc.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Rapha.cc.xccolortheme
+```
 
 ---
 
