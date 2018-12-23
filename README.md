@@ -1,7 +1,7 @@
 # XcodeTheme-Rapha.cc
 Xcode theme inspired by Rapha.cc 🚴‍♀️colors
 
-##Install:
+## Install:
 
 * Clone
 ```console
@@ -16,17 +16,20 @@ $ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 * Copy theme to ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ forlder
 
 ---
-## Owerview
+
+## Overview
 <p align="center">
-<img src ="./Assets/xcode.png" width="360"/>
+<img src ="./Assets/xcode.png"/>
 </p>
 
 ---
+
 _img source: www.rapha.cc_
 
 ## Inspiration
 <p align="center">
-<img src ="./Assets/rapha_pink.png" width="360"/>
-<img src ="./Assets/rapha_yellow.png" width="360"/>
+<img src ="./Assets/rapha_pink.png" width="300"/>
+<img src ="./Assets/rapha_yellow.png" width="300"/>
 </p>
+
 ---
