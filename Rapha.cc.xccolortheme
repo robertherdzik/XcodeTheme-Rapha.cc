@@ -87,13 +87,13 @@
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.748913 0 0.891287 0.223564</string>
+	<string>0.910989 0.259169 0.664625 0.190774</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.950117 0.194055 0.552019 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.847328 0.864166 0.891005 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.950117 0.194055 0.552019 0.444432</string>
+	<string>0.950117 0.194055 0.552019 0.166868</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -146,51 +146,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Monofur - 32.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Monofur - 14.0</string>
+		<string>RobotoMono-Light - 12.0</string>
 	</dict>
 </dict>
 </plist>
