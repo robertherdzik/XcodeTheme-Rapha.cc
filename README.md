@@ -25,6 +25,8 @@ $ ln -s Rapha.cc.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThe
 ---
 
 ## Overview
+Font: 'monofur'
+
 <p align="center">
 <img src ="./Assets/xcode1.png"/>
 </p>
